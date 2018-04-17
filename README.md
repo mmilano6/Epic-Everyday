@@ -78,7 +78,7 @@ After that sketch, Jason and I started working with Claire on developing a new i
 After a few days of discussion we landed on the idea of creating an experience that would allow the user to explore the livelihood of everyday objects. Through research we found a relatively new online trend, where people host youtube channels showing certain aspects of life. Two examples we really gravitated to were forestry departments hosting animal cams, like the eagle cam, or people (specifically in South Korea) that post videos of them eating. We started to question what the future of these, already odd and TV like, youtube channels would be. More specifically how would they be situated in an everyday VR experience. We started to think about how the internet of things would probably be part of this experience, which in a semi related note, led us to the idea of being able to tune into being an object in a house. 
 
 
-// Critical Reflection
+# // Critical Reflection
 
 This project had many ups and downs, and I really wish I made different decisions, but in the end it taught me a lot. One of the biggest things I think was made clear from this piece was that making some sort of sketch from the start of a project is absolutely crucial. This is even more true if you don’t know what you are trying to focus on as a concept. We essentially wasted several days, in what was already a small timeframe project, not making and just searching for a “perfect” concept. Although, in the end I feel like we made a successful piece, I feel like it would have been that much stronger if started making and sketching from day one. The second thing that was made clear through working on this piece is some people just don't work well together. This happened for many reasons: different working styles, different interests, different ways of communicating, … 
 
@@ -88,7 +88,7 @@ In future iterations I think it would be interesting to really work with live im
 
 One main focus that I would like to elaborate on in the future is interaction and experience we captured with the relationship between the user and the ice cubes. That experience really seemed to transcend the user into a moment where they felt frozen and forgot that they were in a headset with headphones. I think bringing that experience to each of the other scenes would be great, and I would like to further explore other experiences. I think each of the three, and possible new, experiences could be their own pieces. This focus would really allow us to focus on how to really refine and build a truly captivating immersive experience. 
 
-// Tools
+# // Tools
 
 Autodesk Remake
 Steam
@@ -101,21 +101,21 @@ Blender
 After Effects
 Photoshop
 
-// Brief
+# // Brief
 
-Assignment/Layer 1: Scan
+## Assignment/Layer 1: Scan
 
 VR and AR uses information from the real world to construct the virtual. The site, and everything within it, forms the foundation of the experience. How are VR and AR sensors and cameras, seeing, understanding, inferring, and translating the physical space and context into the virtual?
 
-Assignment/Layer 2: Embody
+## Assignment/Layer 2: Embody
 
 Virtual and augmented reality are not real. But at the same time it is a real experience brought to life through the virtual camera and head mounted display. How does this technology enable us to see, move, interact, and construct a new reality? How do you make someone feel immersed? How does this immersive view of the immaterial influence our perception, alter our spatial senses, and control our behavior - how we move our bodies in both the virtual and
 physical space?
 
-Assignment/Layer 3: Interact
+## Assignment/Layer 3: Interact
 
 How might the virtual have influence over the physical world – our spaces, objects, bodies, and minds? How might it intervene, inform, or affect? What new hybrid interactions, aesthetics, objects, or places will emerge in the material world? How might the virtual hide, integrate, acknowledge its connection to the physical infrastructure - the computer tower, display, head mounted display, office chairs, and other props? Over time, how will it affect our perceived boundary between the real and virtual?
 
-Final Project: Everyday Immersions
+## Final Project: Everyday Immersions
 
 Virtual Reality (VR) and Augmented Reality (AR) are an expanding array of immersive technologies — hardware, software, spatial sensors, cameras, interfaces, controllers, and head mounted displays (HMD) that read and interpret the real world, combine it with the virtual, and in the process, blur the boundary in-between. Through this complex layering of the real and virtual, the tangible and intangible, the person, their body, their brain, and their way of perceiving is placed in the middle, somewhere new. They are in-between realities, in-between places, and in-between their real self and their virtual representation. Welcome to immersive living, a new type of “reality”. As VR and AR technologies become increasingly ubiquitous and cultural acceptance grows how might these technologies begin to permeate through our world, making immersive experiences more routine – like putting on a watch or diving in for a 'special' occasion? How will these augmented layers of sensing technologies and media begin to shape the material surfaces of our places, things, and bodies? What new strange juxtapositions of views, aesthetics, and interactions will be created from this layering, mixing, reflecting and collaging of experiences? How do they interact, inform, and affect one another? What are the implications of this shifting boundary? Will these seamed experiences and resolutions assimilate, mingle, or interrupt? How will these emerging technologies redefine our everyday experiences? Outside of a few specific scenarios, there is not one singular vision of how VR or AR will ultimately fit (or not) within our pre-existing rhythms, rituals, and routines. Through a series of investigative assignments [wk1-2], we will explore the layering of the real and the virtual through the expansive VR and AR technological stack. We will use hands-on experimentation to push beyond stereotypical tropes and demo content, to uncover the strange and overlooked details in the in-betweens.
