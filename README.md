@@ -63,6 +63,6 @@ I started this project with an interest in situating the viewer in a microscopic
 
 I specifically wanted to utilize the inner jaw of the the skull as an environment for the user to be immersed in, while still allowing them to explore. This proved to be a much more difficult task than I first imagined it to be. Getting detailed images of the inside of the mouth was hard enough. There's only so much room between the jaws (I wanted them closed), and it’s way too small for a camera. This challenge is compounded by the fact that you cannot use lighting that creates shadows, or change the position of the object throughout taking photos. After several failed attempts I finally reached out to my girlfriend for help, (she has used photogrammetry in her work before) and was able to get a very nice scan. 
 
-<a href="https://player.vimeo.com/video/200517563" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen"><img width="637" alt="screen shot 2018-04-17 at 1 08 44 pm" src="https://user-images.githubusercontent.com/30060990/38893891-80b63676-4240-11e8-9b51-2aecb14c3db0.png">
+<a href="https://player.vimeo.com/video/200517563" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen><img width="637" alt="screen shot 2018-04-17 at 1 08 44 pm" src="https://user-images.githubusercontent.com/30060990/38893891-80b63676-4240-11e8-9b51-2aecb14c3db0.png"></a>
 
 
