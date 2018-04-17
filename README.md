@@ -66,3 +66,8 @@ I specifically wanted to utilize the inner jaw of the the skull as an environmen
 <a href="https://player.vimeo.com/video/200517563" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen><img width="637" alt="screen shot 2018-04-17 at 1 08 44 pm" src="https://user-images.githubusercontent.com/30060990/38893891-80b63676-4240-11e8-9b51-2aecb14c3db0.png"></a>
 
 
+![how_i_shot_1000](https://user-images.githubusercontent.com/30060990/38894093-23986f80-4241-11e8-87c0-069ebb03b652.png)
+
+Around this point I began working with Jason and Yeawon. We wanted to bring all three of our scans together to further explore this aspect of the microscopic user. We began using multiples of each of scans to create a spherical world that the user could explore, but more specifically one that allowed them to view each individual scan in a much larger detail than its original, and collectively as a surreal environment. This led to us questioning how we could really bring this heightened aspect of sense to the next level. After more exploration we landed on the idea of creating feeling stations, where the user could actively feel the tactile sensation of the general idea of several selected vantage points. Below is the experience we created
+
+<a href"https://player.vimeo.com/video/202720631" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen><img width="638" alt="screen shot 2018-04-17 at 1 14 53 pm" src="https://user-images.githubusercontent.com/30060990/38894181-5f281ec4-4241-11e8-8333-3c619891631d.png"></a>
